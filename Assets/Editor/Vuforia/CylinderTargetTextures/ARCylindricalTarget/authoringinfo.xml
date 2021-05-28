@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <CylinderTarget name="CylinderRocks" version="3.0" targetId="a5d23a4d2d91430e93a098bed29145f4" sideLength="16.600000" topDiameter="7.600000" bottomDiameter="7.600000" sideImage="CylinderRocks.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
